@@ -1,0 +1,10 @@
+mov ax,1234h
+mov bx,320h
+mov cx,3
+add cx,1
+mov ax,2h
+add bx,ax
+sub ax,cx
+mov ax,1
+add ax,cx
+mov bx,4
