@@ -1,0 +1,6 @@
+;TASK 7
+MOV AX, 00FFH
+ADD AL, 1
+ADD AH, 1
+ADD AX, 1
+
